@@ -1,4 +1,5 @@
 .cover__item{
+  /*border: 1px solid blue;*/
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -7,7 +8,6 @@
   color: #fff;
   text-decoration: none;
   box-sizing: border-box;
-  border: 1px solid blue;
   padding: 20px;
   background-image: url('../../../images/cover-trains.jpg');
   background-repeat: no-repeat;
