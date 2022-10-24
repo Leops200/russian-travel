@@ -1,0 +1,5 @@
+.photo-grid{
+  border: 1px solid blue;
+  display: grid;
+  gap: 1em;
+}

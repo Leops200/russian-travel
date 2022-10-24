@@ -26,6 +26,9 @@
 @import url(../Blocks/list/__head/list__head.css);
 @import url(../Blocks/list/__text/list__text.css);
 
+/*section PHOTO-GRID */
+@import url(../Blocks/photo-grid/photo-grid.css);
+
 /*section C O V E R */
 @import url(../Blocks/cover/cover.css);
 @import url(../Blocks/cover/__item/cover__item.css);
