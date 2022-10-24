@@ -1,0 +1,13 @@
+.content__section{
+  padding: 0 48px;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0 auto;
+  border: 1px solid green;
+}
+
+@media  screen and (max-width: 1124px) {
+  .content__section{
+    padding: 0;
+  }
+}

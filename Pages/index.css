@@ -7,6 +7,16 @@
 @import url(../Blocks/content/content.css);
 @import url(../Blocks/content/__section/content__section.css);
 
+/*section L E A D *//*
+@import url(../Blocks/lead/lead.css);
+@import url(../Blocks/lead/__item/lead__item.css);
+@import url(../Blocks/lead/__title/lead__title.css);
+@import url(../Blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../Blocks/lead/__image/lead__image.css);
+@import url(../Blocks/lead/__caption/lead__caption.css);
+
+
+/*section C O V E R */
 @import url(../Blocks/cover/cover.css);
 @import url(../Blocks/cover/__item/cover__item.css);
 @import url(../Blocks/cover/__subtitle/cover__subtitle.css);

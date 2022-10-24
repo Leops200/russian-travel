@@ -1,0 +1,26 @@
+.lead__image{
+  border: 1px solid salmon;
+  min-height: 615px;
+  background-image: url(../../../images/lead-polka.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+@media  screen and (max-width: 1124px) {
+  .lead__image{
+    min-height: 580px;
+}
+}
+
+@media  screen and (max-width: 984px) {
+  .lead__image{
+    min-height: 480px;
+  }
+}
+
+@media  screen and (max-width: 568px) {
+  .lead__image{
+    min-height: 200px;
+  }
+}
