@@ -13,8 +13,18 @@
 @import url(../Blocks/lead/__title/lead__title.css);
 @import url(../Blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../Blocks/lead/__image/lead__image.css);
-@import url(../Blocks/lead/__caption/lead__caption.css);
+@import url(../Blocks/lead/__caption/lead__caption.css);*/
 
+/*section I N T R O */
+@import url(../Blocks/intro/intro.css);
+@import url(../Blocks/intro/__item/intro__item.css);
+@import url(../Blocks/intro/__title/intro__title.css);
+@import url(../Blocks/intro/__subtitle/intro__subtitle.css);
+/* block LIST */
+@import url(../Blocks/list/list.css);
+@import url(../Blocks/list/__cell/list__cell.css);
+@import url(../Blocks/list/__head/list__head.css);
+@import url(../Blocks/list/__text/list__text.css);
 
 /*section C O V E R */
 @import url(../Blocks/cover/cover.css);

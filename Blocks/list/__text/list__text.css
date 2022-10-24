@@ -1,0 +1,8 @@
+.list__text{
+  border: 1px solid royalblue;
+  margin: 0;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 400;
+  padding-left: 6px;
+}
