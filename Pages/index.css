@@ -28,6 +28,7 @@
 
 /*section PHOTO-GRID */
 @import url(../Blocks/photo-grid/photo-grid.css);
+@import url(../Blocks/photo-grid/__image/photo-grid__image.css);
 
 /*section C O V E R */
 @import url(../Blocks/cover/cover.css);
