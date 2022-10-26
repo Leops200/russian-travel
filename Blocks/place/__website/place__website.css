@@ -1,0 +1,8 @@
+.place__website{
+  border: 1px solid royalblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  grid-area: link;
+  margin: 0 0 8px 0;
+}

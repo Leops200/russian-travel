@@ -1,0 +1,4 @@
+.place__paragraphs{
+  border: 1px solid white;
+  grid-area: paragraphs;
+}
