@@ -3,6 +3,13 @@
   display: flex;
   flex-direction: column;
   justify-content: end;
+  align-items: flex-start;
   grid-area: link;
   margin: 0 0 8px 0;
+}
+
+@media  screen and (max-width: 568px){
+  .place__website{
+    margin: 0 16px;
+  }
 }

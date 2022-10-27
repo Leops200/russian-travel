@@ -1,4 +1,7 @@
 .place__link{
-  border: 1px solid greenyellow;
+  border-bottom: solid white;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
   margin: 0;
 }
