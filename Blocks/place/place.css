@@ -6,8 +6,7 @@
   grid-template-rows: repeat(2,minmax(min-content, max-content));
   grid-template-areas: 
   "title link"
-  "image paragraphs"
-  ;
+  "image paragraphs";
   margin-bottom: 80px;
 }
 
@@ -35,7 +34,6 @@
   "title"
   "link"
   "image"
-  "paragraphs"
-  ;
+  "paragraphs";
   }
 }
