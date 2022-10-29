@@ -1,5 +1,5 @@
 .place__image{
-  border: 1px solid lightskyblue;
+  /*border: 1px solid lightskyblue;*/
   grid-area: image;
   max-height: 460px;
   max-width: 460px;

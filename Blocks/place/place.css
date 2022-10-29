@@ -1,5 +1,5 @@
 .place{
-  border: 1px solid blue;
+  /*border: 1px solid blue;*/
   display: grid;
   gap: 40px;
   grid-template-columns: repeat(2, minmax(min-content, max-content));

@@ -1,9 +1,10 @@
 .place__paragraphs{
-  border: 1px solid white;
+  /*border: 1px solid white;*/
   grid-area: paragraphs;
   font-size: 18px;
   line-height: 29.34px;
   font-weight: 400;
+  padding: 0;
 }
 
 @media  screen and (max-width: 568px){
