@@ -1,7 +1,7 @@
-.page__content.css{
+.page__content{
   margin-top: 56px;
   margin-bottom: 92px;
-  border: 1px solid yellow;
+  border: 1px solid rgb(255, 0, 43);
 }
 
 @media  screen and (max-width: 1124px) {

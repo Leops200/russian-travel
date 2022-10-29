@@ -1,0 +1,5 @@
+.header__lang-box{
+  border: 1px solid lawngreen;
+  display: flex;
+  align-items: flex-end;
+}
