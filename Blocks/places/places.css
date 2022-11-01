@@ -1,6 +1,6 @@
 .places{
   /*border: 1px solid wheat;*/
-  padding: 0 100px;
+  padding: 0 148px;
 }
 
 @media  screen and (max-width: 1124px){
@@ -9,7 +9,7 @@
   }
 }
 
-@media  screen and (max-width: 984px){
+@media  screen and (max-width: 894px){
   .places{
     padding: 0 24px;
   }

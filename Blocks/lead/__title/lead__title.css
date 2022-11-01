@@ -2,13 +2,13 @@
   /*border: 1px solid brown;*/
   font-size: 96px;
   line-height: 100px;
+  font-weight: 900;
   margin: 0 auto 32px;
   text-align: center;
   max-width: 720px;
-
 }
 
-@media  screen and (max-width: 670px){
+@media  screen and (max-width: 894px){
   .lead__title{
     max-width: 550px;
     font-size: 76px;

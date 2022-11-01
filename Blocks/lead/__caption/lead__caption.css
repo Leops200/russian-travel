@@ -4,11 +4,12 @@
   font-size: 10px;
   line-height: 14px;
   font-weight: 400;
+  letter-spacing: 1.5px;
   text-transform: uppercase;
-  max-width: 158px;
+  max-width: 160px;
 }
 
-@media  screen and (max-width: 984px) {
+@media  screen and (max-width: 894px) {
   .lead__caption{
     margin: 8px 0 0 24px;
   }

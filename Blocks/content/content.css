@@ -1,9 +1,10 @@
 .content{
+  /*border: 1px solid red;*/
   display: grid;
   grid-row-gap: 92px;
 }
 
-@media  screen and (max-width: 984px) {
+@media  screen and (max-width: 894px) {
   .content{
     grid-row-gap: 88px;
   }
