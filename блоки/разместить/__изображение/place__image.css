@@ -12,7 +12,11 @@
   }
 }
 
+<<<<<<< HEAD:blocks/place/__image/place__image.css
 @media  screen and (max-width: 774px){
+=======
+@media  screen and (max-width: 790px){
+>>>>>>> 2722f85f9071e296cd4f351c1b63619628402081:блоки/разместить/__изображение/place__image.css
   .place__image{
     max-height: 340px;
   }
