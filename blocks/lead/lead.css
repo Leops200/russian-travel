@@ -1,3 +1,23 @@
 .lead{
   font-family: 'Inter', Arial, sans-serif;
+  /*border: 1px solid white;*/
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  text-decoration: none;
+  box-sizing: border-box;
+  padding: 0 148px;
+}
+
+
+@media  screen and (max-width: 1124px){
+.lead{
+  padding: 0 48px;
+}
+}
+
+@media  screen and (max-width: 894px){
+.lead{
+  padding: 0 24px;
+}
 }
